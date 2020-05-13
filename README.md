@@ -17,13 +17,17 @@ A suite of powerful utility tools.
 
 • [**Audio Tools (Premium)**](https://github.com/60xpwn/Meoji/wiki/Audio-Tools)
 
+• [**Time Tools**](https://github.com/60xpwn/Meoji/wiki/Time-Tools)
+
 • [**Conversion Tools**](https://github.com/60xpwn/Meoji/wiki/Conversion-Tools)
 
-• [**Developer Tools (Premium)**](https://github.com/60xpwn/Meoji/wiki/Developer-Tools)
+• [**Encryption Tools (Premium)**](https://github.com/60xpwn/Meoji/wiki/Encryption-Tools)
+
+• [**Password Tools**](https://github.com/60xpwn/Meoji/wiki/Password-Tools)
 
 • [**Hashing Tools**](https://github.com/60xpwn/Meoji/wiki/Hashing-Tools)
 
-• [**Time Tools**](https://github.com/60xpwn/Meoji/wiki/Time-Tools)
+• [**Web Tools**](https://github.com/60xpwn/Meoji/wiki/Web-Tools)
 
 # Preferences
 
